@@ -293,6 +293,7 @@
 //APP资源 🧲 
 
 {      "key": "王子",      "name": "👑王子丨APP",      "type": 3,      "api": "csp_AppGet",      "searchable": 1,      "changeable": 1,      "ext": {        "url": "https://app.95112475.xyz",        "dataKey": "5a9w6x58dsq6z3a6",        "dataIv": "5a9w6x58dsq6z3a6"      }    },       
+{      "key": "奴娜",      "name": "👑奴娜｜影视","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.nntv.in/api.php/v1.vod"},
 {      "key": "剧圈99",      "name": "👑剧圈丨APP",      "type": 3,      "api": "csp_App99",      "ext": {        "host": "http://124.221.3.182:19987/app/bn",        "appkey": "d1f0c269eab74d93821fffc9befdbbba",        "versionName": "1.2.0",        "name": "剧圈圈",        "package": "com.qingtangxiaozhuan.xyz",        "buildNumber": "2002",        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"      }    },      
 {      "key": "久久",      "name": "👑久久｜APP",      "type": 3,      "api": "csp_AppYsV2",      "searchable": 1,      "quickSearch": 1,      "filterable": 1,      "ext": "http://99cms.jj99.icu:8199/api.php/app/"    },
 {      "key": "顾我99","name": "👑顾我丨APP","type": 3,"api": "csp_App99","ext": {"host": "http://117.50.200.113:19987/app/bn","LoginPath": "/app/log","appkey": "040f9b1bc5e942569b5c3e63943306ab","versionName": "4.3.1","name": "顾我追剧","package": "com.guwozhuijux.app","buildNumber": "2001","buildSignature": "5AD4436C4730FFE26910C86278B80F3E661C317FFC3616F702D20A729262624A"},"jar": "http://47.120.41.246:8025/vip/jar/xiaomi.php"},
@@ -301,7 +302,6 @@
 {      "key":"蓝鸟","name":"🦅蓝鸟｜影视","type":3,"api":"csp_AppQi","searchable":1,"changeable":1,"ext":{"site":"https://lanyingjisu.oss-cn-wuhan-lr.aliyuncs.com/lyjszx.txt","dataKey":"oW5UxZ5kWVr1DI69","dataIv":"oW5UxZ5kWVr1DI69","init":"initV122","ua":"okhttp/3.10.0"}},
 {      "key":"蓝鹰","name":"🦅蓝鹰｜影视","type":3,"api":"csp_AppQi","searchable":1,"changeable":1,"ext":{"url":"http://103.217.190.91:5566","dataKey":"hagYExMdMkeWfemK","dataIv":"hagYExMdMkeWfemK","init":"initV122","ua":"okhttp/3.10.0"}},
 {      "key": "布卡",      "name": "🧸布卡｜影视",      "type": 3,      "api": "csp_XBPQ",      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0307/11/98d51d4d95c5cf1b67e74af45cc4445f.jpg;md5;4d860d06ec233dbcb891b76055f099d5",      "ext": {        "副标题": "欧歌专属",        "请求头": "User-Agent$MOBILE_UA",        "编码": "UTF-8",        "分类url": "https://m.ycblcw.com/;;!H"      }    },     
-{      "key": "本地",      "name": "🚤本地｜视频",      "type": 3,      "api": "csp_LocalFile"    },    {      "key": "呦呦DJ",      "name": "🌸呦呦｜DJ",      "type": 3,      "api": "csp_Djuu",      "style": {        "type": "list"      }    },
  {
       "key": "采集之王",
       "name": "🐢采集｜合集",
